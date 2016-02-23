@@ -1,0 +1,11 @@
+*.pyc
+*.swp
+*.csv
+*.RData
+figures/
+old/
+packages/
+raw/
+resources/
+results/
+scripts/old/
